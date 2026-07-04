@@ -202,7 +202,7 @@ CHC 影迷电影,http://localhost/mg/138636138/952383261
 农林卫视,http://stream.snrtv.com/sxbc-nl-gmwS07.m3u8
 服务状态,#genre#
 更新时间｜2026-07-04T19:15:54+0800,webview://javascript:void(0);
-请求时间｜2026-07-04T19:38:11+0800,webview://javascript:void(0);
+请求时间｜2026-07-04T19:42:14+0800,webview://javascript:void(0);
 请求地址｜::1,webview://javascript:void(0);
 推荐应用｜天光云影,webview://https://t.me/mytv_android_release
 推荐应用｜电视直播,webview://https://github.com/mytv-android/mytv-android/releases/tag/V2.0.0.200#webview://https://t.me/mytv_android_channel
