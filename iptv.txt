@@ -173,6 +173,7 @@ CHC 影迷电影,http://localhost/mg/138636138/952383261
 海南卫视,https://livelyws1.chinamcache.com/lyws/newlive_zb03.m3u8?auth_key=1767148001-0-0-0650c6542c331540df214a79a09a2356
 海峡卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=4162077171dc76f444554ebc3b79e7c7&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260704191532&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=240a:42cd:ec01:4f37:f415:35ff:fecb:799c&SecurityKey=20260704191532&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=cf0b245e93aa62066cf760e8d98ef6f1&ddCalcu=1cffv60afbde2a8495de89e30a6a76f2c066&sv=10004&ct=android
 海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+海峡卫视,http://localhost/mg/138636138/849119120
 湖北卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/hbwshd265/54/20200407/index.m3u8?msisdn=4162077171dc76f444554ebc3b79e7c7&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260704191530&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=240a:42cd:ec01:4f37:f415:35ff:fecb:799c&SecurityKey=20260704191530&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=10d3d4de6494930ae3122a99c4dc01ac&ddCalcu=c1a0v1da03ycdad44dce9694a924291330ea&sv=10004&ct=android
 湖北卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=600633&netType=4&sid=5910022163&pid=2028597139&timestamp=20260704110625&Channel_ID=0116_2600037000-99000-200300220114509&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=36.140.71.80&SecurityKey=20260704110625&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ed7cb2741bef02bdea728d8f19af323
 湖北卫视,http://localhost/mg/138636138/947472496
@@ -201,7 +202,7 @@ CHC 影迷电影,http://localhost/mg/138636138/952383261
 农林卫视,http://stream.snrtv.com/sxbc-nl-gmwS07.m3u8
 服务状态,#genre#
 更新时间｜2026-07-04T19:15:54+0800,webview://javascript:void(0);
-请求时间｜2026-07-04T19:24:23+0800,webview://javascript:void(0);
+请求时间｜2026-07-04T19:38:11+0800,webview://javascript:void(0);
 请求地址｜::1,webview://javascript:void(0);
 推荐应用｜天光云影,webview://https://t.me/mytv_android_release
 推荐应用｜电视直播,webview://https://github.com/mytv-android/mytv-android/releases/tag/V2.0.0.200#webview://https://t.me/mytv_android_channel
